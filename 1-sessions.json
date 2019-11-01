@@ -1,0 +1,298 @@
+{
+	"100": {
+		"description": "Get your badge, enjoy talking with tech edicts around",
+		"icon": "registration",
+		"title": "Registration",
+		"image": "/images/backgrounds/coffee-break.jpg"
+	},
+	"101": {
+		"title": "Lunch Break",
+		"image": "/images/backgrounds/lunch.jpg",
+		"description": "Fooood! You can eat around in CityU on your own!",
+		"icon": "lunch"
+	},
+	"102": {
+		"title": "GDG DevFest Hong Kong 2019 Opening",
+		"speakers": [
+			"emma_wong",
+			"herbert_man"
+		],
+		"language": "English, Cantonese(粵語)",
+		"description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+		"icon": "opening"
+	},
+	"103": {
+		"title": "Lucky Draw",
+		"image": "",
+		"description": "Lucky Draw and Closing",
+		"icon": "party"
+	},
+	"104": {
+		"title": "Group Photo",
+		"image": "",
+		"description": "It is the Group Photo!!!!!",
+		"icon": "party"
+	},
+	"105": {
+		"speakers": [
+			"osmond_ng"
+		],
+		"title": "(TBC) Google Cloud presented by Googler",
+		"language": "English (TBC)",
+		"description": "(TBC) Cloud topic presented by Googler",
+		"tags": [
+			"Cloud"
+		]
+	},
+	"106": {
+		"description": "(TBC) Android 10 topic presented by Googler",
+		"complexity": "Beginner",
+		"tags": [
+			"Cloud"
+		],
+		"speakers": [
+			"fung_lam"
+		],
+		"title": "(TBC) Android 10 presented by Googler",
+		"language": "Cantonese(粵語) (TBC)"
+	},
+	"110": {
+		"tags": [
+			"Web and Mobile"
+		],
+		"speakers": [
+			"joe_kwong"
+		],
+		"title": "(TBC) How Google cloud certified impact our career?",
+		"language": "TBC",
+		"description": "(TBC) How Google cloud certified impact our career?",
+		"complexity": "Beginner"
+	},
+	"111": {
+		"description": "(TBC) Kubernets update",
+		"complexity": "Beginner",
+		"tags": [
+			"Cloud"
+		],
+		"speakers": [
+			"cloud_team"
+		],
+		"title": "Kubernets update",
+		"language": "TBC"
+	},
+	"112": {
+		"speakers": [
+			"ming_choi"
+		],
+		"title": "Flutter State Management",
+		"language": "TBC",
+		"description": "Flutter State Management",
+		"complexity": "Intermediate",
+		"tags": [
+			"Web and Mobile"
+		]
+	},
+	"113": {
+		"tags": [
+			"Cloud"
+		],
+		"speakers": [
+			"weiyuan_liu"
+		],
+		"title": "From VMs, to GKE + GAE ; Soompi's re-architecture - a year in review",
+		"language": "TBC",
+		"description": "From VMs, to GKE + GAE ; Soompi's re-architecture - a year in review",
+		"complexity": "Intermediate"
+	},
+	"114": {
+		"tags": [
+			"Cloud"
+		],
+		"speakers": [
+			"cyrus_wong"
+		],
+		"title": "香港的雲端教育及前途",
+		"language": "Cantonese(粵語)",
+		"description": "香港的雲端教育及前途",
+		"complexity": "Beginner"
+	},
+	"120": {
+		"description": "(TBC) Android Testing",
+		"complexity": "Beginner",
+		"tags": [
+			"Web and Mobile"
+		],
+		"speakers": [
+			"tbc"
+		],
+		"title": "(TBC) Android Testing",
+		"language": "TBC"
+	},
+	"121": {
+		"description": "WTM: (TBC) Engineering Manager of SEEK Asia",
+		"complexity": "Beginner",
+		"tags": [
+			"WTM"
+		],
+		"speakers": [
+			"jane_frieder"
+		],
+		"title": "WTM: (TBC) Engineering Manager of SEEK Asia ",
+		"language": "English"
+	},
+	"122": {
+		"speakers": [
+			"julia_tsoi"
+		],
+		"title": "WTM: Live like a human in the machine's world",
+		"language": "English",
+		"description": "WTM: Live like a human in the machine's world",
+		"complexity": "Beginner",
+		"tags": [
+			"WTM"
+		]
+	},
+	"123": {
+		"speakers": [
+			"julius_uy"
+		],
+		"title": "Android 10 and the Advances in Video Codecs",
+		"language": "English",
+		"description": "Android 10 and the Advances in Video Codecs",
+		"complexity": "Intermediate",
+		"tags": [
+			"Web and Mobile"
+		]
+	},
+	"124": {
+		"tags": [
+			"Web and Mobile"
+		],
+		"speakers": [
+			"tbc"
+		],
+		"title": "PWA",
+		"language": "TBC",
+		"description": "PWA",
+		"complexity": "Beginner"
+	},
+	"130": {
+		"description": "Getting Away with Not Writing Documentation by using gRPC",
+		"complexity": "Intermediate",
+		"tags": [
+			"Others"
+		],
+		"speakers": [
+			"george"
+		],
+		"title": "Getting Away with Not Writing Documentation by using gRPC",
+		"language": "TBC"
+	},
+	"131": {
+		"description": "Kotlin + Protobuf + MongoDB = Awesome",
+		"complexity": "Beginner",
+		"tags": [
+			"Kotlin"
+		],
+		"speakers": [
+			"gap_lo"
+		],
+		"title": "Kotlin + Protobuf + MongoDB = Awesome",
+		"language": "TBC"
+	},
+	"132": {
+		"speakers": [
+			"tbc"
+		],
+		"title": "(TBC) Kotlin Advanced",
+		"language": "English",
+		"description": "(TBC) Kotlin Advanced",
+		"complexity": "Intermediate",
+		"tags": [
+			"Kotlin"
+		]
+	},
+	"133": {
+		"tags": [
+			"Others"
+		],
+		"speakers": [
+			"ivan_so"
+		],
+		"title": "7 Things about Technical SEO",
+		"language": "TBC",
+		"description": "7 Things about Technical SEO",
+		"complexity": "Beginner"
+	},
+	"134": {
+		"speakers": [
+			"harshdeep_vaghela"
+		],
+		"title": "Developing for KaiOS",
+		"language": "English",
+		"description": "Developing for KaiOS",
+		"complexity": "Beginner",
+		"tags": [
+			"Web and Mobile"
+		]
+	},
+	"140": {
+		"speakers": [
+			"orix_auyeung"
+		],
+		"title": "ML Talk (TBC)",
+		"language": "TBC",
+		"description": "ML Talk (TBC)",
+		"complexity": "Beginner",
+		"tags": [
+			"Machine Learning"
+		]
+	},
+	"141": {
+		"speakers": [
+			"tony_yip"
+		],
+		"title": "Transform your website to PWA",
+		"language": "TBC",
+		"description": "Transform your website to PWA",
+		"complexity": "Beginner",
+		"tags": [
+			"Web and Mobile"
+		]
+	},
+	"142": {
+		"tags": [
+			"Machine Learning"
+		],
+		"speakers": [
+			"`guan_wang"
+		],
+		"title": "Building a Chinese Chatbot: Data, Algotihms and Tools",
+		"language": "TBC",
+		"description": "Building a Chinese Chatbot: Data, Algotihms and Tools",
+		"complexity": "Machine Learning"
+	},
+	"143": {
+		"tags": [
+			"Machine Learning"
+		],
+		"speakers": [
+			"kinni_mew"
+		],
+		"title": "KubeFlow (TBC)",
+		"language": "TBC",
+		"description": "KubeFlow (TBC)p",
+		"complexity": "Beginner"
+	},
+	"144": {
+		"tags": [
+			"Machine Learning"
+		],
+		"speakers": [
+			"yeung"
+		],
+		"title": "ML Workshop (TBC)",
+		"language": "TBC",
+		"description": "ML Workshop (TBC)"
+	}
+}

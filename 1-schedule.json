@@ -1,0 +1,205 @@
+{
+	"2019-11-23": {
+		"date": "2019-11-23",
+		"tracks": [
+			{
+				"title": "LT 401"
+			},
+			{
+				"title": "LT 10"
+			},
+			{
+				"title": "LT 11"
+			},
+			{
+				"title": "LT 12"
+			},
+			{
+				"title": "LT 18"
+			}
+		],
+		"dateReadable": "November 23",
+		"timeslots": [
+			{
+				"startTime": "09:30",
+				"sessions": [
+					{
+						"items": [100]
+					}
+				],
+				"endTime": "09:45"
+			},
+			{
+				"endTime": "10:00",
+				"startTime": "09:45",
+				"sessions": [
+					{
+						"items": [102]
+					}
+				]
+			},
+			{
+				"endTime": "10:45",
+				"startTime": "10:00",
+				"sessions": [
+					{
+						"items": [106]
+					}
+				]
+			},
+			{
+				"endTime": "11:30",
+				"startTime": "10:45",
+				"sessions": [
+					{
+						"items": [105]
+					}
+				]
+			},
+			{
+				"endTime": "11:40",
+				"startTime": "11:30",
+				"sessions": [
+					{
+						"items": [104]
+					}
+				]
+			},
+			{
+				"endTime": "13:00",
+				"startTime": "11:40",
+				"sessions": [
+					{
+						"items": [101]
+					}
+				]
+			},
+			{
+				"endTime": "13:45",
+				"startTime": "13:00",
+				"sessions": [
+					{
+						"items": []
+					},
+					{
+						"items": [110]
+					},
+					{
+						"items": [120]
+					},
+					{
+						"items": [130]
+					},
+					{
+						"items": [140]
+					}
+				]
+			},
+			{
+				"endTime": "14:30",
+				"startTime": "13:45",
+				"sessions": [
+					{
+						"items": []
+					},
+					{
+						"items": [111]
+					},
+					{
+						"items": [121]
+					},
+					{
+						"items": [131]
+					},
+					{
+						"items": [141]
+					}
+				]
+			},
+			{
+				"endTime": "15:15",
+				"startTime": "14:30",
+				"sessions": [
+					{
+						"items": []
+					},
+					{
+						"items": [112]
+					},
+					{
+						"items": [122]
+					},
+					{
+						"items": [132]
+					},
+					{
+						"items": [142]
+					}
+				]
+			},
+			{
+				"endTime": "16:00",
+				"startTime": "15:15",
+				"sessions": [
+					{
+						"items": []
+					},
+					{
+						"items": [113]
+					},
+					{
+						"items": [123]
+					},
+					{
+						"items": [133]
+					},
+					{
+						"items": [143]
+					}
+				]
+			},
+			{
+				"endTime": "16:45",
+				"startTime": "16:00",
+				"sessions": [
+					{
+						"items": []
+					},
+					{
+						"items": [114]
+					},
+					{
+						"items": [124]
+					},
+					{
+						"items": [134]
+					},
+					{
+						"items": [144]
+					}
+				]
+			},
+			{
+				"endTime": "17:00",
+				"startTime": "16:45",
+				"sessions": [
+					{
+						"items": []
+					},
+					{
+						"items": []
+					},
+					{
+						"items": []
+					},
+					{
+						"items": []
+					},
+					{
+						"items": [103]
+					}
+				]
+			}
+		]
+	}
+}
