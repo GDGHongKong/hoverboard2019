@@ -42,6 +42,10 @@
                     "url": "https://www.meetup.com/GDG-Cloud-Hong-Kong",
                     "newTab": true
                 }, {
+                    "name": "Women Techmakers Hong Kong",
+                    "url": "https://fb.com/WTMHongKong/",
+                    "newTab": true
+				}, {
                     "name": "TensorFlow Hong Kong",
                     "url": "https://fb.com/TensorflowHK",
                     "newTab": true
@@ -196,7 +200,7 @@
         "toast": "Successfully subscribed!"
     },
     "team": {
-        "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Hong Kong 香港Google開發者社區](http://gdghk.org/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Hong Kong audience to boost development of IT.<br><br>[GDG Cloud Hong Kong](https://www.meetup.com/GDG-Cloud-Hong-Kong) - is a community group for all technologists with an interest in Google Cloud Platform (GCP) and its awesome capabilities. We'll be exploring areas including (but not limited to) Machine Learning, BiqQuery, Serverless Computing, App Engine and Containers.<br><br>[Women Techmakers](https://www.womentechmakers.com/) - provides visibility, community, and resources for women in technology to drive innovation and participation in the field.<br><br>[TensorFlow Hong Kong](https://fb.com/TensorFlowHK/) -  is the first TensorFlow user group in Hong Kong.<br><br>[Hong Kong Kotlin User Group](https://fb.com/KotlinHK) -  is the first Kotlin user group in Hong Kong."
+        "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Hong Kong 香港Google開發者社區](http://gdghk.org/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Hong Kong audience to boost development of IT.<br><br>[GDG Cloud Hong Kong](https://www.meetup.com/GDG-Cloud-Hong-Kong) - is a community group for all technologists with an interest in Google Cloud Platform (GCP) and its awesome capabilities. We'll be exploring areas including (but not limited to) Machine Learning, BiqQuery, Serverless Computing, App Engine and Containers.<br><br>[Women Techmakers Hong Kong](https://fb.com/WTMHongKong/) - provides visibility, community, and resources for women in technology to drive innovation and participation in the field.<br><br>[TensorFlow Hong Kong](https://fb.com/TensorFlowHK/) -  is the first TensorFlow user group in Hong Kong.<br><br>[Hong Kong Kotlin User Group](https://fb.com/KotlinHK) -  is the first Kotlin user group in Hong Kong."
     },
     "schedule": {
         "saveSessionsSignedOut": "Sign in to save sessions"
@@ -205,7 +209,8 @@
         "contentLevel": "Content level",
         "viewPresentation": "View presentation",
         "viewVideo": "View video",
-        "speakers": "Speakers"
+        "speakers": "Speakers",
+		"language": "Language"
     },
     "speakerDetails": {
         "sessions": "Sessions"

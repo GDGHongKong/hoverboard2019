@@ -76,6 +76,8 @@
         <h3 class="meta-info" hidden$="[[disabledSchedule]]">[[session.track.title]]</h3>
         <h3 class="meta-info" hidden$="[[!session.complexity]]">{$ sessionDetails.contentLevel $}:
           [[session.complexity]]</h3>
+		<h3 class="meta-info" hidden$="[[!session.language]]">{$ sessionDetails.language $}:
+          [[session.language]]</h3>
 
         <marked-element class="description" markdown="[[session.description]]">
           <div slot="markdown-html"></div>

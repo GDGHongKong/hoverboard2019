@@ -6,9 +6,9 @@
 		"companyLogo": "/images/logos/google.svg",
 		"title": "Developer Advocate",
 		"photo": "/images/people/gdg_fung.jpg",
-		"order": 5,
+		"order": 0,
 		"featured": true,
-		"company": "GDG Hong Kong",
+		"company": "Google",
 		"companyLogoUrl": "/images/logos/google.svg",
 		"socials": [
 			{
@@ -47,7 +47,7 @@
 		"bio": "Osmond Ng"
 	},
 	"emma_wong": {
-		"order": 4,
+		"order": 6,
 		"featured": true,
 		"company": "GDG Hong Kong",
 		"companyLogoUrl": "/images/logos/gdg-hk.png",
@@ -167,7 +167,7 @@
 		"companyLogo": "/images/logos/swissre.jpg",
 		"title": "Partner",
 		"photo": "/images/people/gdgc_wang.jpg",
-		"order": 5,
+		"order": 2,
 		"featured": true,
 		"company": "Swiss Re",
 		"companyLogoUrl": "/images/logos/swissre.jpg",
@@ -189,314 +189,307 @@
 		"bio": "Guan Wang"
 	},
 	"joe_kwong": {
-		"shortBio": "Harry Chan is currently a Product Manager at Mindlayer...",
+		"shortBio": "Joe Kwong...",
 		"photoUrl": "/images/people/harry_chan.jpg",
-		"name": "Harry Chan",
-		"companyLogo": "/images/logos/mindlayer_logo.png",
-		"title": "Product Manager and NLP Engineer",
+		"name": "Joe Kwong",
+		"companyLogo": "/images/logos/",
+		"title": "",
 		"photo": "/images/people/harry_chan.jpg",
-		"order": 7,
+		"order": 4,
 		"featured": true,
 		"company": "Mindlayer",
-		"companyLogoUrl": "/images/logos/mindlayer_logo.png",
+		"companyLogoUrl": "/images/logos/",
 		"socials": [
 			{
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/harry-chan/",
+				"link": "https://www.linkedin.com/in/cccc/",
 				"name": "LinkedIn"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Harry Chan is currently a Product Manager at Mindlayer. He received his B.Eng from City University of Hong Kong and was a grantee of Cyberport Creative Micro Fund after graduation. After being part of several startups and growth companies, Harry now oversees all incoming new products, solves product issues and along the way taught himself ML & AI. He is also part of our R&D team that brings together multiple people from different parts of the company to develop new innovative products. "
+		"bio": "Joe Kwong"
 	},
 	"ming_choi": {
-		"shortBio": "Derek is the Director & Co-Founder of Master Concept...",
+		"shortBio": "Ming Choi...",
 		"photoUrl": "/images/people/derek_chan.jpg",
-		"name": "Derek Chan",
-		"companyLogo": "/images/logos/hkmci.png",
-		"title": "Director",
+		"name": "Ming Choi",
+		"companyLogo": "/images/logos/ccc.png",
+		"title": "Mobile Developer",
 		"photo": "/images/people/derek_chan.jpg",
-		"order": 1,
+		"order": 4,
 		"featured": true,
-		"company": "Master Concept Group",
-		"companyLogoUrl": "/images/logos/hkmci.png",
+		"company": "",
+		"companyLogoUrl": "/images/logos/ccc.png",
 		"socials": [
 			{
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/mcderekchan/",
+				"link": "https://www.linkedin.com/in/ccc/",
 				"name": "LinkedIn"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Derek is the Director & Co-Founder of Master Concept"
-	},
-	"weiyuan_liu": {
-		"shortBio": "Danny is a Customer Engineer for Google Cloud, assisting Hong Kong...",
-		"photoUrl": "/images/people/danny_wong.jpg",
-		"name": "Danny Wong",
-		"companyLogo": "/images/logos/google.svg",
-		"title": "Customer Engineer, Google Cloud",
-		"photo": "/images/people/danny_wong.jpg",
-		"order": 0,
-		"featured": true,
-		"company": "Google",
-		"companyLogoUrl": "/images/logos/google.svg",
-		"country": "Hong Kong",
-		"bio": "Danny is a Customer Engineer for Google Cloud, assisting Hong Kong customers to transform and digitize their business with emerging technology of cloud, data, application and things in the digital era. He has 16 years of experience in enterprise networking, data center, security and collaboration technologies. "
+		"bio": "Ming Choi"
 	},
 	"cyrus_wong": {
-		"shortBio": "Sharon is a customer-focused product and technology leader...",
-		"photoUrl": "/images/people/sharon_kean.jpg",
-		"name": "Sharon Anne Kean",
-		"companyLogo": "/images/logos/seekasia.png",
+		"shortBio": "Cyrus Wong...",
+		"photoUrl": "/images/people/ccc.jpg",
+		"name": "Cyrus Wong",
+		"companyLogo": "/images/logos/ccc.png",
 		"title": "Director of Product",
-		"photo": "/images/people/sharon_kean.jpg",
+		"photo": "/images/people/ccc.jpg",
 		"order": 3,
+		"featured": true,
+		"company": "",
+		"companyLogoUrl": "/images/logos/cc.png",
+		"socials": [
+			{
+				"name": "LinkedIn",
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/ccc/"
+			}
+		],
+		"country": "Hong Kong",
+		"bio": "Cyrus Wong"
+	},
+	"jane_freider": {
+		"shortBio": "Jane has almost 20 years of working experience as a software developer, a solution architect and an engineering leader...",
+		"photoUrl": "/images/people/jane.jpg",
+		"name": "Evguenia (Jane) Freider",
+		"companyLogo": "/images/logos/seekasia.png",
+		"title": "Head of Engineering, Candidate domain",
+		"photo": "/images/people/jane.jpg",
+		"order": 2,
 		"featured": true,
 		"company": "SEEK Asia",
 		"companyLogoUrl": "/images/logos/seekasia.png",
-
 		"socials": [
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/sharonannekean/"
+				"link": "https://www.linkedin.com/in/janefreider/"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Sharon is a customer-focused product and technology leader, who's empathetic, enthusiastic and loves a challenge. She is currently Product Director at SEEK Asia where their vision is improving lives through better careers. Her past career has included stints at e-commerce and fintech start-ups in London, and has worked across product, design, data and technology."
-	},
-	"jane_frieder": {
-		"shortBio": "Claudia is the founder of ChatCampaign - a next generation marketing CRM...",
-		"photoUrl": "/images/people/claudia_sin.png",
-		"name": "Claudia Sin",
-		"companyLogo": "/images/logos/chat_campaign_transparent.png",
-		"title": "Founder",
-		"photo": "/images/people/claudia_sin.png",
-		"order": 3,
-		"featured": true,
-		"company": "ChatCampaign",
-		"companyLogoUrl": "/images/logos/chat_campaign_transparent.png",
-
-		"socials": [
-			{
-				"name": "LinkedIn",
-				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/claudia-sin-52577743/"
-			}
-		],
-		"country": "Hong Kong",
-		"bio": "Claudia is the founder of ChatCampaign - a next generation marketing CRM on messaging that helps marketers to understand their audience almost like their friends.<br/>During her first year as CEO, she single handedly built the platform, acquired early corporate customers and got funding to scale up the company.<br/>Before ChatCampaign, Claudia co-founded ShopLovers.co with 100,000usd turnover, 17,000 members and 20 suppliers across Asia when she was the CEO. She can do pitching, business development, UX design, develop software system and fight off hackers at the same time. She studied Computer Science and Engineering Enterprise Management at HKUST."
+		"bio": "Jane has almost 20 years of working experience as a software developer, a solution architect and an engineering leader. Jane holds Masters in Computer Science and 2 patents in software delivery algorithms. Jane currently leads multiple teams at Seek Asia to deliver the best user experience for JobsDB and JobStreet job searching websites. Jane is very passionate security, best engineering practices, and software architectures as well as people around her. She now uses her knowledge and past experience to lead and grow engineers in Hong Kong and Malaysia."
 	},
 	"julia_tsoi": {
-		"shortBio": "Mary is currently a Java Developer Advocate for IBM's Digital Business Group...",
-		"photoUrl": "/images/people/mary_grygleski.jpg",
-		"name": "Mary Grygleski",
-		"companyLogo": "/images/logos/IBM_logo.png",
-		"title": "Developer Adcovate",
-		"photo": "/images/people/mary_grygleski.jpg",
-		"order": 3,
+		"shortBio": "Julia is a design thinker, change agent and dreamer all-in-one...",
+		"photoUrl": "/images/people/julia.jpg",
+		"name": "Julia Tsoi",
+		"companyLogo": "/images/logos/Ey.jpg",
+		"title": "Digital Strategist",
+		"photo": "/images/people/julia.jpg",
+		"order": 2,
 		"featured": true,
-		"company": "IBM",
-		"companyLogoUrl": "/images/logos/IBM_logo.png",
+		"company": "EY",
+		"companyLogoUrl": "/images/logos/Ey.jpg",
 		"socials": [
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/mary-grygleski/"
-			},
-			{
-				"name": "Twitter",
-				"icon": "twitter",
-				"link": "https://twitter.com/mgrygles"
-			}
-		],
-		"country": "USA",
-		"bio": "Mary is currently a Java Developer Advocate for IBM's Digital Business Group, specializing in Reactive Java systems. She has been riding the software tech waves since 1989, starting with Unix and C, then set sail for Java, open source, and web in the new Millennium, and now venturing into reactive, mobile, and the DevOps space. She now resides in the Greater Chicago area, and is an Executive Board member and the Director of Meetings for the Chicago Java Users Group (CJUG)."
-	},
-	"julius_uy": {
-		"shortBio": "Anson is a software developer at Oursky...",
-		"photoUrl": "/images/people/anson-leung.jpg",
-		"name": "Anson Leung",
-		"companyLogo": "/images/logos/oursky.png",
-		"title": "Software Engineer",
-		"photo": "/images/people/anson-leung.jpg",
-		"order": 3,
-		"featured": true,
-		"company": "Oursky",
-		"companyLogoUrl": "/images/logos/oursky.png",
-		"socials": [
-			{
-				"name": "LinkedIn",
-				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/anson-leung-a17a33136/"
+				"link": "https://www.linkedin.com/in/juliatsoi"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Anson is a software developer at Oursky. Besides building mobile and web apps, he’s interested in software product design and machine learning."
+		"bio": "Julia is a design thinker, change agent and dreamer all-in-one.<br/>As a Design Thinking Coach and Digital Consultant, she has dynamic exposure in banking, insurance, airlines, and public sectors. She loves post-its, innovative workshops, and how design thinking could lead to beautiful things that matter to people.<br/>This year she spent 9 months at the Apple Developer Academy in Naples, Italy, working with the other top 400 talents around the globe to build human-centric iOS apps."
+	},
+	"julius_uy": {
+		"shortBio": "Julius leads the Mobile Apps and TV engineering teams in Rakuten Viki...",
+		"photoUrl": "https://www.droidcon.sg/wp-content/uploads/2019/06/Julius-Uy.jpeg",
+		"name": "Julius Uy",
+		"companyLogo": "/images/logos/RakutenViki.png",
+		"title": "Engineering Manager",
+		"photo": "https://www.droidcon.sg/wp-content/uploads/2019/06/Julius-Uy.jpeg",
+		"order": 1,
+		"featured": true,
+		"company": "Rakuten Viki",
+		"companyLogoUrl": "/images/logos/RakutenViki.png",
+		"socials": [
+			{
+				"name": "LinkedIn",
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/uyjulius"
+			}
+		],
+		"country": "Singapore",
+		"bio": "Julius leads the Mobile Apps and TV engineering teams in Rakuten Viki. His team works on various projects such as Apple TV, Android TV, Roku, Google Play Instant, Google Home, Chromecast, Chrome OS, and Smart Displays. Their works were featured on Google I/O, WWDC, Android Developer Story, Editor’s Choice, Android Excellence, and in several news sites and tech blogs."
 	},
 	"george": {
-		"shortBio": "Ivan Ha is front-end leader of a product team in HK01...",
+		"shortBio": "George...",
 		"photoUrl": "/images/people/IvanHa.jpeg",
-		"name": "Ivan Ha",
-		"companyLogo": "/images/logos/hk01.png",
-		"title": "Senior Software Engineer",
+		"name": "George",
+		"companyLogo": "/images/logos/cc.png",
+		"title": "",
 		"photo": "/images/people/IvanHa.jpeg",
 		"order": 3,
 		"featured": true,
-		"company": "HK01",
-		"companyLogoUrl": "/images/logos/hk01.png",
+		"company": "",
+		"companyLogoUrl": "/images/logos/cc.png",
 		"socials": [
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/ivan-ha/"
+				"link": "https://www.linkedin.com/in/ccc/"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Ivan Ha is front-end leader of a product team in HK01. He participated in several development projects and recently move his focus to the company's main site. Ivan is passionate about the React ecosystem and always discussing new ideas with his teammates."
+		"bio": "George"
 	},
 	"gap_lo": {
-		"shortBio": "Mike Leung is one of the lead engineers in the Video Product Team in HK01...",
+		"shortBio": "Gap Lo...",
 		"photoUrl": "/images/people/MikeLeung.jpg",
-		"name": "Mike Leung",
-		"companyLogo": "/images/logos/hk01.png",
-		"title": "Senior Software Engineer",
+		"name": "Gap Lo",
+		"companyLogo": "/images/logos/cc.png",
+		"title": "",
 		"photo": "/images/people/MikeLeung.jpg",
 		"order": 3,
 		"featured": true,
-		"company": "HK01",
-		"companyLogoUrl": "/images/logos/hk01.png",
+		"company": "",
+		"companyLogoUrl": "/images/logos/cc.png",
 		"socials": [
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/mickeoleung/"
+				"link": "https://www.linkedin.com/in/ccc/"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Mike Leung is one of the lead engineers in the Video Product Team in HK01. He has been working in the video industry for the last few years by using the web technology. Recently Mike is focusing on consolidating the video resource pipeline and improving the experience on video delivery. "
+		"bio": "Gap Lo"
 	},
 	"ivan_so": {
-		"shortBio": "Serena Pau founded Groking Lab to harness her great passion in designing products...",
+		"shortBio": "Ivan So...",
 		"photoUrl": "/images/people/serena_pau.jpg",
-		"name": "Serena Pau",
+		"name": "Ivan So",
 		"companyLogo": "/images/logos/ozmo.png",
-		"title": "CEO and Founder",
+		"title": "",
 		"photo": "/images/people/serena_pau.jpg",
 		"order": 4,
 		"featured": true,
-		"company": "Ozmo @ Groking Lab",
+		"company": "",
 		"companyLogoUrl": "/images/logos/ozmo.png",
 		"socials": [
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/serenapau/"
+				"link": "https://www.linkedin.com/in/ccc/"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Serena Pau founded Groking Lab to harness her great passion in designing products that truly improve the way people live. She believes that making small changes in people’s lives creates large impact.<br>Ozmo is the first project launched by Groking Lab in 2015. Its mission is to inspire busy individuals to be aware of how important it is to their health and well-being to stay hydrated. Serena manages Groking Lab from Hong Kong in order to nurture the startup; she believes that staying close to the maker is important to the ultimate realization of the product.<br>Today Ozmo has users in over 85 countries. Serena is also serving as Entrepreneur in Residence at Nest.vc, hoping to inspire more people to become entrepreneur."
+		"bio": "Ivan So"
 	},
 	"harshdeep_vaghela": {
-		"shortBio": "Mobile Engineering Manager (Android and iOS) at Red Soldier Limited...",
+		"shortBio": "Harshdeep Vaghela...",
 		"photoUrl": "/images/people/roy_ng.jpg",
-		"name": "Roy Ng",
-		"companyLogo": "/images/logos/redso_logo.png",
-		"title": "Mobile Engineering Manager",
+		"name": "Harshdeep Vaghela",
+		"companyLogo": "/images/logos/kaios.png",
+		"title": "Project Manager",
 		"photo": "/images/people/roy_ng.jpg",
-		"order": 5,
+		"order": 2,
 		"featured": true,
-		"company": "Red Soldier Limited",
-		"companyLogoUrl": "/images/logos/redso_logo.png",
+		"company": "KaiOS Technologies, Inc.",
+		"companyLogoUrl": "/images/logos/kaios.png",
 		"socials": [
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://hk.linkedin.com/in/roy-ng-19427735"
+				"link": "https://hk.linkedin.com/in/ccc"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Mobile Engineering Manager (Android and iOS) at Red Soldier Limited"
+		"bio": "Harshdeep Vaghela"
 	},
 	"orix_auyeung": {
-		"shortBio": "Hong Kong Society of Autonomous Model Vehicles (SAMV) 香港自動駕駛模型協會...",
-		"photoUrl": "https://www.gravatar.com/avatar/26b9a494e9f790b4c91b4cf1624e4832",
-		"name": "Dennis Wu",
-		"companyLogo": "/images/logos/samv.png",
-		"title": "SAMV",
-		"photo": "https://www.gravatar.com/avatar/26b9a494e9f790b4c91b4cf1624e4832",
-		"order": 5,
-		"featured": true,
-		"company": "Hong Kong Society of Autonomous Model Vehicles",
-		"companyLogoUrl": "/images/logos/samv.png",
-		"socials": [
-			{
-				"name": "Facebook",
-				"icon": "facebook",
-				"link": "https://www.facebook.com/groups/samv.org"
-			},
-			{
-				"name": "Meetup",
-				"icon": "meetup",
-				"link": "https://www.meetup.com/samv-org/"
-			}
-		],
-		"country": "Hong Kong",
-		"bio": "The goal of this group is to build a community of autonomous vehicle hackers who make and race autonomous RC cars on a budget. Small-scale remote control cars fill a critical need for applying Autonomous Vehicle technology to real world conditions while still being approachable for individual enthusiasts. We think this is the ideal platform for really getting your hands dirty with the array of skills needed to put an autonomous vehicle on the road. We also think it's just really cool! Join us and let's start hacking! <br/>This group started as DIY Robocars HK and renamed to Hong Kong Society of Autonomous Model Vehicles (SAMV) 香港自動駕駛模型協會 because we want to expand into other types of vehicles, e.g. drones, boats."
-	},
-	"tony_yip": {
-		"shortBio": "Hong Kong Society of Autonomous Model Vehicles (SAMV) 香港自動駕駛模型協會...",
-		"photoUrl": "https://www.gravatar.com/avatar/530d610c7f01e75b764ca6784549bb18",
-		"name": "Jonathan Tse",
-		"companyLogo": "/images/logos/samv.png",
-		"title": "SAMV",
-		"photo": "https://www.gravatar.com/avatar/530d610c7f01e75b764ca6784549bb18",
-		"order": 5,
-		"featured": true,
-		"company": "Hong Kong Society of Autonomous Model Vehicles",
-		"companyLogoUrl": "/images/logos/samv.png",
-		"socials": [
-			{
-				"name": "Facebook",
-				"icon": "facebook",
-				"link": "https://www.facebook.com/groups/samv.org"
-			},
-			{
-				"name": "Meetup",
-				"icon": "meetup",
-				"link": "https://www.meetup.com/samv-org/"
-			}
-		],
-		"country": "Hong Kong",
-		"bio": "The goal of this group is to build a community of autonomous vehicle hackers who make and race autonomous RC cars on a budget. Small-scale remote control cars fill a critical need for applying Autonomous Vehicle technology to real world conditions while still being approachable for individual enthusiasts. We think this is the ideal platform for really getting your hands dirty with the array of skills needed to put an autonomous vehicle on the road. We also think it's just really cool! Join us and let's start hacking! <br/>This group started as DIY Robocars HK and renamed to Hong Kong Society of Autonomous Model Vehicles (SAMV) 香港自動駕駛模型協會 because we want to expand into other types of vehicles, e.g. drones, boats."
-	},
-	"yeung": {
-		"shortBio": "Louis Li is the organizer of Google Cloud Platform Hong Kong User Group...",
-		"photoUrl": "/images/people/louis_li.jpg",
-		"name": "Louis Li",
-		"companyLogo": "/images/logos/redso_logo.png",
-		"title": "Partner",
-		"photo": "/images/people/louis_li.jpg",
-		"order": 5,
-		"featured": true,
-		"company": "Red Soldier Limited",
-		"companyLogoUrl": "/images/logos/redso_logo.png",
+		"shortBio": "Hello there! I’m Orix, a full-time developer...",
+		"photoUrl": "/images/people/gdg_orix.jpg",
+		"name": "Orix Au Yeung",
+		"companyLogo": "/images/logos/hkmci.png",
+		"title": "Developer",
+		"photo": "/images/people/gdg_orix.jpg",
+		"order": 3,
 		"badges": [
 			{
 				"name": "gdg",
-				"description": "Google Cloud Platform Hong Kong User Group",
-				"link": "https://www.facebook.com/groups/gcpughk/"
+				"description": "Google Developer Group Hong Kong",
+				"link": "http://www.gdghk.org/"
 			}
 		],
+		"featured": true,
+		"company": "Master Concept (HK) Limited",
+		"companyLogoUrl": "/images/logos/hkmci.png",
+		"country": "Hong Kong",
+		"bio": "Hello there! I’m Orix, a full-time developer in Master Concept (HK) Limited focusing on designing & making Cloud and/or ML solutions. I spend most of my spare time reading & coding stuff that I’m interested in. Avid fan of Google products and technologies. Google Cloud Certified Professional Data Engineer / Cloud Architect / Cloud Developer. Currently a co-organizer of GDG Hong Kong."
+	},
+	"tony_yip": {
+		"shortBio": "Tony Yip...",
+		"photoUrl": "/images/people/",
+		"name": "Tony Yip",
+		"companyLogo": "/images/logos/samv.png",
+		"title": "",
+		"photo": "/images/people/",
+		"order": 3,
+		"featured": true,
+		"company": "",
+		"companyLogoUrl": "/images/logos/samv.png",
+		"socials": [
+		{
+				"name": "LinkedIn",
+				"icon": "linkedin",
+				"link": "https://hk.linkedin.com/in/ccc"
+			}
+		],
+		"country": "Hong Kong",
+		"bio": "Tony Yip"
+	},
+	"yeung": {
+		"shortBio": "Yeung is passionate about developing in the area of data science...",
+		"photoUrl": "/images/people/yeung.jpg",
+		"name": "Yeung",
+		"companyLogo": "/images/logos/hkjc.png",
+		"title": "Partner",
+		"photo": "/images/people/yeung.jpg",
+		"order": 5,
+		"featured": true,
+		"company": "The Hong Kong Jockey Club",
+		"companyLogoUrl": "/images/logos/hkjc.png",
 		"socials": [
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/sze-chung-louis-li-0b668717/"
+				"link": "https://hk.linkedin.com/in/yeungwong"
+			},
+			{
+				"name": "Blog",
+				"icon": "website",
+				"link": "https://cydalytics.blogspot.com"
+			},
+			{
+				"name": "GitHub",
+				"icon": "github",
+				"link": "https://github.com/cydalytics"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Louis Li is the organizer of Google Cloud Platform Hong Kong User Group."
+		"bio": "Yeung is passionate about developing in the area of data science, deep learning and artificial intelligence. He enjoys having a sense of accomplishment once successfully solving a tremendous difficulty. He is active in joining Datathon and Hackathon to gain experience in handling real-life data, and to cooperate with various expertizes such as UX/UI designers, businessmen or software developers and extend his social networks. He is a data scientist who keeps learning and curious about a variety of fields such as natural language processing, computer vision, augmented reality and blockchain. Yeung truly believes that the key to success is communication. Not only with people, but also with data!"
+	},
+	"sunny_tse": {
+		"shortBio": "Sunny is a Freelance Developer and Technical Manager who helps international IT enterprise...",
+		"photoUrl": "/images/people/hiuyeung.png",
+		"name": "Sunny Tse",
+		"companyLogo": "/images/logos/google.svg",
+		"title": "Technical Program Manager",
+		"photo": "/images/people/hiuyeung.png",
+		"order": 5,
+		"featured": true,
+		"company": "Google Hong Kong",
+		"companyLogoUrl": "/images/logos/google.svg",
+		"socials": [
+			{
+				"name": "LinkedIn",
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/sunny-tse-44738995/"
+			}
+		],
+		"country": "Hong Kong",
+		"bio": "Sunny is a Freelance Developer and Technical Manager who helps international IT enterprise and local startups build an audience and develop quality products. Before starting the freelance jobs, Sunny spent around seven years as a Software and Full Stack Developer for IT companies in Hong Kong, Singapore and Australia. After a successful career in E-Commerce area, Sunny helps different area of clients to develop products and services. Sunny enjoys trying new sports like Practical Shooting, and playing board games as well. Sunny's available for developing projects, as well as private consultation. My email is sunnyapp1001@gmail.com"
 	}
 }
