@@ -58,14 +58,14 @@
 	},
 	"110": {
 		"tags": [
-			"Web and Mobile"
+			"Cloud","Cantonese"
 		],
 		"speakers": [
-			"joe_kwong"
+			"homing"
 		],
-		"title": "(TBC) How Google cloud certified impact our career?",
-		"language": "TBC",
-		"description": "(TBC) How Google cloud certified impact our career?",
+		"title": "Google Maps: New stuff",
+		"language": "Cantonese(粵語)",
+		"description": "Google Maps: New stuff",
 		"complexity": "Beginner"
 	},
 	"111": {
@@ -214,13 +214,13 @@
 	},
 	"133": {
 		"tags": [
-			"Others"
+			"Others","Cantonese"
 		],
 		"speakers": [
 			"ivan_so"
 		],
 		"title": "7 Things about Technical SEO",
-		"language": "TBC",
+		"language": "Cantonese(粵語)",
 		"description": "7 Things about Technical SEO",
 		"complexity": "Beginner"
 	},
@@ -265,7 +265,7 @@
 			"Machine Learning","English"
 		],
 		"speakers": [
-			"`guan_wang"
+			"guan_wang"
 		],
 		"title": "Building a Chinese Chatbot: Data, Algotihms and Tools",
 		"language": "English",

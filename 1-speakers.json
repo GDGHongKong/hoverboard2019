@@ -122,6 +122,44 @@
 		"companyLogo": "/images/logos/mindlayer_logo.png",
 		"title": "NLP Engineer"
 	},
+	"homing": {
+		"photo": "/images/people/gdg_homing.jpg",
+		"order": 2,
+		"featured": true,
+		"company": "Lalamove",
+		"companyLogoUrl": "/images/logos/Lalamove.png",
+		"badges": [
+			{
+				"name": "gde",
+				"description": "Google Developers Experts",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-homing_tam"
+			},
+			{
+				"name": "gdg",
+				"description": "Google Developer Group Hong Kong",
+				"link": "http://www.gdghk.org/"
+			}
+		],
+		"socials": [
+			{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/homing-tam-84582031/",
+				"name": "Linkedin"
+			},
+			{
+				"name": "Blog",
+				"icon": "website",
+				"link": "https://tamhoming.wordpress.com/"
+			}
+		],
+		"country": "Hong Kong",
+		"bio": "Homing helps unleash the potential of maps in different businesses and applications. Google recognises his contribution in Google Maps and awarded him as \"Google Developer Experts in Maps APIs\". In his spare time, he serves as an organiser for the Google Developers Group to promote wider and more extensive use of Google's technology.",
+		"shortBio": "Homing helps unleash the potential of maps in different businesses and applications...",
+		"photoUrl": "/images/people/gdg_homing.jpg",
+		"name": "Homing Tam",
+		"companyLogo": "/images/logos/Lalamove.png",
+		"title": "Product Manager"
+	},
 	"herbert_man": {
 		"shortBio": "一名80後IT人及大學導師...",
 		"photoUrl": "/images/people/gdg_herbert.jpg",
