@@ -94,14 +94,14 @@
 	},
 	"113": {
 		"tags": [
-			"Cloud"
+			"Cloud","WTM","Cantonese"
 		],
 		"speakers": [
 			"emma_wong"
 		],
-		"title": "Live Coding: Google Assistant廣東話+連接第三方API",
+		"title": "Live Coding: Google Assistant廣東話 + 連接第三方API + Push notification",
 		"language": "Cantonese(粵語)",
-		"description": "Live Coding: Google Assistant廣東話+連接第三方API",
+		"description": "Google Assistant今年10月正式支援廣東話喇！🎉 Android同iOS都用到！唔係用voice去Google search咁簡單，Assistant已整合System(for Android)、Google服務、一些本地第三方Partner(例如：八達通、Openrice、MOOV等等)，你可以用自然對答方式去叫Assistant去完成各種本地化個人化Tasks。<br/>對Developers黎講，最興奮梗係可以開發及發佈自己既Actions(好似Google Assistant platform上既App咁)！ 今次會Step-by-step教大家用DialogFlow + Firebase Functions去寫一隻會Call第三方API同埋識send push notification既廣東話Action。",
 		"complexity": "Beginner"
 	},
 	"114": {
@@ -118,7 +118,7 @@
 	},
 	"120": {
 		"description": "In the fast paced world, everything needs to be continuous. Although testing plays an important role in product development to control software quality, how does the automation involved in the software development cycle in terms of costs and creating value? How do we keep up with the changes?",
-		"complexity": "Beginner",
+		"complexity": "Beginner/Intermediate",
 		"tags": [
 			"Web and Mobile"
 		],
@@ -130,9 +130,9 @@
 	},
 	"121": {
 		"description": "Have you ever given a thought on how to modernize 15 years old software systems? How about if they are written in 2 different countries by engineers from different tech backgrounds and in fact formerly being competitors? Do you think it is quick and easy to move from a data center to a modern cloud infrastructure? I’d talk about challenges and complexity to transform mature systems with millions of users to be supported around the clock. Join the session to find out what worked and what didn't.",
-		"complexity": "Intermediate",
+		"complexity": "Intermediate/Advanced",
 		"tags": [
-			"WTM"
+			"WTM","English"
 		],
 		"speakers": [
 			"jane_freider"
@@ -149,7 +149,7 @@
 		"description": "Technology dominated our lives.<br/>And the most fashionable buzzwords can be mesmerizing.<br/>AI, Machine Learning, Big Data, Blockchain. You name it.<br/>But we too often forgot that the real intent behind all these bright inventions is to solve genuine human problems.<br/>Digital strategist Julia Tsoi will take you through her journey of human-centric advocacy from Hong Kong to Naples, Italy. Stories of her quest to find humanity in this crazy technology world from IBM to Apple Developer Academy. And how Design Thinking continues to guide her through business consulting challenges at EY Wavespace.",
 		"complexity": "Beginner",
 		"tags": [
-			"WTM"
+			"WTM","English"
 		]
 	},
 	"123": {
@@ -161,26 +161,26 @@
 		"description": "Android 10 introduced support for the open source video codec AV1. According to Google, this allows media providers to stream high quality video content to Android devices using less bandwidth. But what are codecs? Why do we need new ones and how video streaming companies use them?<br/>This talk goes beyond Android MediaPlayer into what happens behind the scenes. We'll explore the nature of video codecs, streaming, and a peek into how Stadia, Google's game streaming platform plays with codec strategies to achieve high fidelity graphics in low latency.",
 		"complexity": "Intermediate",
 		"tags": [
-			"Web and Mobile"
+			"Web and Mobile","English"
 		]
 	},
 	"124": {
 		"tags": [
-			"Web and Mobile"
+			"Web and Mobile","Cantonese"
 		],
 		"speakers": [
-			"tbc"
+			"henry_chan"
 		],
-		"title": "PWA",
-		"language": "TBC",
-		"description": "PWA",
-		"complexity": "Beginner"
+		"title": "PWA for the enterprise",
+		"language": "Cantonese(粵語)",
+		"description": "Why enterprise should adopt PWA and some general best practice. <br/>(Share the experiences and benefits PWA brings to enterprise and some code to demonstrate how its works)",
+		"complexity": "Intermediate"
 	},
 	"130": {
 		"description": "Sorry for the click-bait title. But seriously, come and learn how a modern RPC framework can improve the workflow and communication of your team(s).",
-		"complexity": "Intermediate",
+		"complexity": "Intermediate/Advanced",
 		"tags": [
-			"Others"
+			"Others","Cantonese"
 		],
 		"speakers": [
 			"george"
@@ -189,27 +189,27 @@
 		"language": "Cantonese(粵語)"
 	},
 	"131": {
-		"description": "Kotlin + Protobuf + MongoDB = Awesome",
-		"complexity": "Beginner",
+		"description": "How do you handle your \"Application Schema\" in MongoDB?<br/>Why writing Kotlin is more productive than javascript when using this awesome combination?",
+		"complexity": "Intermediate",
 		"tags": [
-			"Kotlin"
+			"Kotlin","Cantonese"
 		],
 		"speakers": [
 			"gap_lo"
 		],
 		"title": "Kotlin + Protobuf + MongoDB = Awesome",
-		"language": "TBC"
+		"language": "Cantonese(粵語)"
 	},
 	"132": {
 		"speakers": [
-			"tbc"
+			"elliot"
 		],
-		"title": "(TBC) Kotlin Advanced",
-		"language": "English",
-		"description": "(TBC) Kotlin Advanced",
+		"title": "Unleash Kotlin's potential with Ktor: DSL, coroutines and more.",
+		"language": "Cantonese(粵語)",
+		"description": "Unleash Kotlin's potential with Ktor: DSL, coroutines and more.",
 		"complexity": "Intermediate",
 		"tags": [
-			"Kotlin"
+			"Kotlin","Cantonese"
 		]
 	},
 	"133": {
@@ -230,10 +230,10 @@
 		],
 		"title": "Developing for KaiOS",
 		"language": "English",
-		"description": "Developing for KaiOS",
-		"complexity": "Beginner",
+		"description": "Introducing KaiOS, developer portal and tools, kaiads platform, submission of apps and monetization.",
+		"complexity": "Beginner/Intermediate",
 		"tags": [
-			"Web and Mobile"
+			"Web and Mobile","English"
 		]
 	},
 	"140": {
@@ -245,7 +245,7 @@
 		"description": "The talk will go through the motivation & possible applications of using Variational Auto-encoders (VAEs), and how to create them under Tensorflow 2.0 using Keras and Tensorflow Probability.",
 		"complexity": "Beginner",
 		"tags": [
-			"Machine Learning"
+			"Machine Learning","Cantonese"
 		]
 	},
 	"141": {
@@ -253,24 +253,24 @@
 			"tony_yip"
 		],
 		"title": "Transform your website to PWA",
-		"language": "TBC",
-		"description": "Transform your website to PWA",
+		"language": "Cantonese(粵語)",
+		"description": "Progressive Web App is more and more important on the development of website nowadays. Adding PWA to exists project is not that easy, you will be introduced on the way of adding PWA to your exists project.",
 		"complexity": "Beginner",
 		"tags": [
-			"Web and Mobile"
+			"Web and Mobile","Cantonese"
 		]
 	},
 	"142": {
 		"tags": [
-			"Machine Learning"
+			"Machine Learning","English"
 		],
 		"speakers": [
 			"`guan_wang"
 		],
 		"title": "Building a Chinese Chatbot: Data, Algotihms and Tools",
-		"language": "TBC",
-		"description": "Building a Chinese Chatbot: Data, Algotihms and Tools",
-		"complexity": "Machine Learning"
+		"language": "English",
+		"description": "In this session we will show you some interesting use cases of Chinese chatbot, the technology behind it, and the difficulties we have encountered in building them. We will dive into the right context for using chatbot, the fine-tuned algorithms for handling Chinese and other Asian languages, and a toolset called Chatstack that we built for labeling data and training a machine learning model for Chinese Natural Language Understanding.",
+		"complexity": "Intermediate"
 	},
 	"143": {
 		"tags": [
@@ -281,7 +281,7 @@
 		],
 		"title": "KubeFlow (TBC)",
 		"language": "TBC",
-		"description": "KubeFlow (TBC)p",
+		"description": "KubeFlow (TBC)",
 		"complexity": "Beginner"
 	},
 	"144": {

@@ -1,13 +1,13 @@
 {
 	"fung_lam": {
 		"shortBio": "Fung is an Android Developer...",
-		"photoUrl": "/images/people/gdg_fung.jpg",
+		"photoUrl": "/images/people/nophoto.jpg",
 		"name": "Fung Lam",
 		"companyLogo": "/images/logos/google.svg",
 		"title": "Developer Advocate",
-		"photo": "/images/people/gdg_fung.jpg",
+		"photo": "/images/people/nophoto.jpg",
 		"order": 0,
-		"featured": true,
+		"featured": false,
 		"company": "Google",
 		"companyLogoUrl": "/images/logos/google.svg",
 		"socials": [
@@ -27,13 +27,13 @@
 	},
 	"osmond_ng": {
 		"shortBio": "Osmond Ng...",
-		"photoUrl": "/images/people/KazunoriSato.jpg",
+		"photoUrl": "/images/people/nophoto.jpg",
 		"name": "Osmond Ng",
 		"companyLogo": "/images/logos/google.svg",
 		"title": "Customer Engineer, Google Cloud",
-		"photo": "/images/people/KazunoriSato.jpg",
+		"photo": "/images/people/nophoto.jpg",
 		"order": 0,
-		"featured": true,
+		"featured": false,
 		"company": "Google",
 		"companyLogoUrl": "/images/logos/google.svg",
 		"socials": [
@@ -71,12 +71,12 @@
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Emma Wong is an experienced Android developer, have delivered over 20 mobile/web application projects, include awarded mobile apps with >1 Million users. She is the GDG HK organizer, and Womem Techmakers(WTM) HK Lead. <br/>Google's Women Techmakers program provides visibility, community, and resources for women in technology.https://www.womentechmakers.com",
+		"bio": "Emma is an experienced Android developer, have delivered over 20 mobile/web application projects, include awarded mobile apps with >1 Million users. She is the GDG HK organizer, and Womem Techmakers(WTM) Ambassador.<br/>Google's Women Techmakers program provides visibility, community, and resources for women in technology. https://www.womentechmakers.com",
 		"shortBio": "Emma Wong is the WTM Hong Kong Lead...",
 		"photoUrl": "/images/people/gdg_emma.jpg",
 		"name": "Emma Wong",
 		"companyLogo": "/images/logos/gdg-hk.svg",
-		"title": "Senior Software Engineer",
+		"title": "GDGHK Organizer, WTM Ambassador",
 		"photo": "/images/people/gdg_emma.jpg"
 	},
 	"kinni_mew": {
@@ -165,7 +165,7 @@
 		"photoUrl": "/images/people/gdgc_wang.jpg",
 		"name": "Guan Wang",
 		"companyLogo": "/images/logos/swissre.jpg",
-		"title": "Partner",
+		"title": "Data Scientist",
 		"photo": "/images/people/gdgc_wang.jpg",
 		"order": 2,
 		"featured": true,
@@ -180,44 +180,54 @@
 		],
 		"socials": [
 			{
+				"name": "Blog",
+				"icon": "website",
+				"link": "http://www.crownpku.com/"
+			},
+			{
+				"name": "Github",
+				"icon": "github",
+				"link": "https://github.com/crownpku"
+			},
+			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
 				"link": "https://hk.linkedin.com/in/crownpku"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Guan Wang"
+		"bio": "Guan works as Data Scientist at Swiss Re. His job involves using machine learning and data mining techniques for automation and augmented intelligence while respecting data privacy and model interpretation. He is also a Google Developer Expert in Machine Learning. Previously Guan was working on natural language processing research at Lenovo and machine vision projects at ASTRI. During his study in HKUST and Peking University Guan also did some academic work with publications on genetic algorithms and complex network analysis.<br/>Guan writes in Chinese, English, Python and Powerpoint, socializes on Github, and sometimes speaks a bit."
 	},
-	"joe_kwong": {
-		"shortBio": "Joe Kwong...",
-		"photoUrl": "/images/people/harry_chan.jpg",
-		"name": "Joe Kwong",
-		"companyLogo": "/images/logos/",
-		"title": "",
-		"photo": "/images/people/harry_chan.jpg",
+	"henry_chan": {
+		"shortBio": "Henry Chan is the Technical Lead from Mindlayer...",
+		"photoUrl": "/images/people/nophoto.jpg",
+		"name": "Henry Chan",
+		"companyLogo": "/images/logos/mindlayer_logo.png",
+		"title": "Technical Lead",
+		"photo": "/images/people/nophoto.jpg",
 		"order": 4,
-		"featured": true,
+		"featured": false,
 		"company": "Mindlayer",
-		"companyLogoUrl": "/images/logos/",
+		"companyLogoUrl": "/images/logos/mindlayer_logo.png",
 		"socials": [
 			{
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/cccc/",
+				"link": "https://www.linkedin.com/in/henry-chan-380ba5134/?locale=de_DE",
 				"name": "LinkedIn"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Joe Kwong"
+		"bio": "Henry Chan is the Technical Lead from Mindlayer, one of the leading Applied Machine Learning company in Hong Kong. He adopts technologies and methodologies which brings productive and cost-effective practices to the SDLC. As a role of full stack developer he has been building top earning tool apps in some countries, developing chatbot, robotics solution for enterprise and building his disease classifier for medic-tech to taught himself ML & AI."
 	},
 	"ming_choi": {
 		"shortBio": "Ming Choi...",
-		"photoUrl": "/images/people/derek_chan.jpg",
+		"photoUrl": "/images/people/nophoto.jpg",
 		"name": "Ming Choi",
 		"companyLogo": "/images/logos/ccc.png",
 		"title": "Mobile Developer",
-		"photo": "/images/people/derek_chan.jpg",
+		"photo": "/images/people/nophoto.jpg",
 		"order": 4,
-		"featured": true,
+		"featured": false,
 		"company": "",
 		"companyLogoUrl": "/images/logos/ccc.png",
 		"socials": [
@@ -231,25 +241,35 @@
 		"bio": "Ming Choi"
 	},
 	"cyrus_wong": {
-		"shortBio": "Cyrus Wong...",
-		"photoUrl": "/images/people/ccc.jpg",
+		"shortBio": "Cyrus Wong is Data Scientist of Cloud Innovation Centre...",
+		"photoUrl": "https://d1.awsstatic.com/Developer%20Marketing/developer-center/hero-cyrus-wong.0c2190db9934e42fe993950b90bf9624e78a76d2.jpg",
 		"name": "Cyrus Wong",
-		"companyLogo": "/images/logos/ccc.png",
-		"title": "Director of Product",
-		"photo": "/images/people/ccc.jpg",
+		"companyLogo": "/images/logos/IVE_logo.png",
+		"title": "Data Scientist",
+		"photo": "https://d1.awsstatic.com/Developer%20Marketing/developer-center/hero-cyrus-wong.0c2190db9934e42fe993950b90bf9624e78a76d2.jpg",
 		"order": 3,
 		"featured": true,
-		"company": "",
-		"companyLogoUrl": "/images/logos/cc.png",
+		"company": "Hong Kong IVE",
+		"companyLogoUrl": "/images/logos/IVE_logo.png",
 		"socials": [
+			{
+				"name": "GitHub",
+				"icon": "github",
+				"link": "https://github.com/wongcyrus"
+			},
+			{
+				"name": "Twitter",
+				"icon": "twitter",
+				"link": "https://twitter.com/wongcyrus"
+			},
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/ccc/"
+				"link": "https://www.linkedin.com/in/cyruswong/"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Cyrus Wong"
+		"bio": "Cyrus Wong is Data Scientist of Cloud Innovation Centre at the IT Department of the Hong Kong Institute of Vocational Education (Lee Wai Lee). He has achieved all 11 AWS Certifications and actively promotes the use of AWS in different media and events. His projects received four Hong Kong ICT Awards in 2014, 2015, and 2016, and all winning projects are running solely on AWS with Data Science and Machine Learning. One of the winning projects is “AWS Cloud Lab Environment,” an open-sourced project for educators to create tailor-made lab environments on AWS.<br/>Cyrus also helps to deliver the full-time course “Higher Diploma in Cloud and Data Centre Administration,” which is the first tertiary course in Asia dedicated to provide Cloud Technology training. The course is committed to providing AWS Academy training to Hong Kong students and Cyrus is an AWS Academy Accredited Trainer. He incorporates AI/ML into his daily curriculum and often writes about projects. Examples include: Analyze Emotion in Video Frame Samples Using Amazon Rekognition on AWS, Build an Amazon Lex Chatbot with Microsoft Excel, and Using AWS AI and Amazon Sumerian in IT Education.<br/>He shares his AWS and cloud related knowledge and experience on his LinkedIn Blog, he is an active member in the AWS Hong Kong User Group, and he created a YouTube channel “AWS Talks in Cantonese (廣東話重講 AWS),” which is his presentation on important AWS topics for Hong Kong, China, and Taiwan AWS users who are not familiar with English. One of the most popular blog posts by Cyrus is “How to get all AWS Certifications in Asia?”"
 	},
 	"jane_freider": {
 		"shortBio": "Jane has almost 20 years of working experience as a software developer, a solution architect and an engineering leader...",
@@ -315,14 +335,14 @@
 		"bio": "Julius leads the Mobile Apps and TV engineering teams in Rakuten Viki. His team works on various projects such as Apple TV, Android TV, Roku, Google Play Instant, Google Home, Chromecast, Chrome OS, and Smart Displays. Their works were featured on Google I/O, WWDC, Android Developer Story, Editor’s Choice, Android Excellence, and in several news sites and tech blogs."
 	},
 	"george": {
-		"shortBio": "George...",
-		"photoUrl": "/images/people/IvanHa.jpeg",
-		"name": "George",
+		"shortBio": "Backend guy with...",
+		"photoUrl": "/images/people/nophoto.jpg",
+		"name": "George Leung",
 		"companyLogo": "/images/logos/cc.png",
 		"title": "",
-		"photo": "/images/people/IvanHa.jpeg",
+		"photo": "/images/people/nophoto.jpg",
 		"order": 3,
-		"featured": true,
+		"featured": false,
 		"company": "",
 		"companyLogoUrl": "/images/logos/cc.png",
 		"socials": [
@@ -333,49 +353,54 @@
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "George"
+		"bio": "Backend guy with some experience in statically typed JVM languages (Kotlin, Scala)"
 	},
 	"gap_lo": {
-		"shortBio": "Gap Lo...",
-		"photoUrl": "/images/people/MikeLeung.jpg",
-		"name": "Gap Lo",
-		"companyLogo": "/images/logos/cc.png",
+		"shortBio": "Developer ❤ Hong Kong...",
+		"photoUrl": "/images/people/GapLo.jpg",
+		"name": "Gap撈Tech",
+		"companyLogo": "",
 		"title": "",
-		"photo": "/images/people/MikeLeung.jpg",
+		"photo": "/images/people/GapLo.jpg",
 		"order": 3,
 		"featured": true,
-		"company": "",
-		"companyLogoUrl": "/images/logos/cc.png",
+		"company": "Gap撈Tech",
+		"companyLogoUrl": "",
 		"socials": [
 			{
-				"name": "LinkedIn",
-				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/ccc/"
+				"name": "Blog",
+				"icon": "website",
+				"link": "https://blog.gaplotech.com"
+			},
+			{
+				"name": "Facebook",
+				"icon": "facebook",
+				"link": "https://facebook.com/gaplotech"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Gap Lo"
+		"bio": "Developer ❤ Hong Kong"
 	},
 	"ivan_so": {
-		"shortBio": "Ivan So...",
-		"photoUrl": "/images/people/serena_pau.jpg",
+		"shortBio": "Ivan So have 15 years of experience on SEO...",
+		"photoUrl": "/images/people/ivan_so.jpg",
 		"name": "Ivan So",
-		"companyLogo": "/images/logos/ozmo.png",
-		"title": "",
-		"photo": "/images/people/serena_pau.jpg",
+		"companyLogo": "/images/logos/HDcourse.png",
+		"title": "Digital Consultant",
+		"photo": "/images/people/ivan_so.jpg",
 		"order": 4,
 		"featured": true,
-		"company": "",
-		"companyLogoUrl": "/images/logos/ozmo.png",
+		"company": "HDcourse",
+		"companyLogoUrl": "/images/logos/HDcourse.png",
 		"socials": [
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://www.linkedin.com/in/ccc/"
+				"link": "https://www.linkedin.com/in/ivanso/"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Ivan So"
+		"bio": "Ivan So have 15 years of experience on SEO, WordPress websites, E-Commerce and so on. He had built more than 50 websites to test the impact of SEO on websites, some performed really well and ended up sold to different companies.<br/>He had also managed more than 350 WordPress and E-Commerce website,  and had won countless prize in the IT industry."
 	},
 	"harshdeep_vaghela": {
 		"shortBio": "Harsh is a project manager at KaiOS Technologies...",
@@ -420,32 +445,42 @@
 		"bio": "Hello there! I’m Orix, a full-time developer in Master Concept (HK) Limited focusing on designing & making Cloud and/or ML solutions. I spend most of my spare time reading & coding stuff that I’m interested in. Avid fan of Google products and technologies. Google Cloud Certified Professional Data Engineer / Cloud Architect / Cloud Developer. Currently a co-organizer of GDG Hong Kong."
 	},
 	"tony_yip": {
-		"shortBio": "Tony Yip...",
-		"photoUrl": "/images/people/",
+		"shortBio": "Tony Yip is the Frontend Developer...",
+		"photoUrl": "https://www.gravatar.com/avatar/94a1b6213d134229d540c13fc7923fc9?s=128",
 		"name": "Tony Yip",
-		"companyLogo": "/images/logos/samv.png",
+		"companyLogo": "/images/logos/shinetown-logo.png",
 		"title": "",
-		"photo": "/images/people/",
+		"photo": "https://www.gravatar.com/avatar/94a1b6213d134229d540c13fc7923fc9?s=128",
 		"order": 3,
 		"featured": true,
-		"company": "",
-		"companyLogoUrl": "/images/logos/samv.png",
+		"company": "Shinetown Telecommunication Limited",
+		"companyLogoUrl": "/images/logos/shinetown-logo.png",
 		"socials": [
-		{
-				"name": "LinkedIn",
-				"icon": "linkedin",
-				"link": "https://hk.linkedin.com/in/ccc"
+			{
+				"name": "GitHub",
+				"icon": "github",
+				"link": "https://github.com/tonyhhyip"
+			},
+			{
+				"name": "GitLab",
+				"icon": "gitlab",
+				"link": "https://gitlab.com/tonyhhyip"
+			},
+			{
+				"name": "Twitter",
+				"icon": "twitter",
+				"link": "https://twitter.com/tonyhhyip"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Tony Yip"
+		"bio": "Tony Yip is the Frontend Developer of Shinetown Telecommunication Limited. He manages frontend website AIRSIM, one of the product of the company. He works with both Vue and React"
 	},
 	"yeung": {
 		"shortBio": "Yeung is passionate about developing in the area of data science...",
 		"photoUrl": "/images/people/yeung.jpg",
 		"name": "Yeung",
 		"companyLogo": "/images/logos/hkjc.png",
-		"title": "Partner",
+		"title": "Big Data Analytics Modelling Analyst (Betting)",
 		"photo": "/images/people/yeung.jpg",
 		"order": 5,
 		"featured": true,
@@ -491,5 +526,26 @@
 		],
 		"country": "Hong Kong",
 		"bio": "Sunny is a Freelance Developer and Technical Manager who helps international IT enterprise and local startups build an audience and develop quality products.<br/>Before starting the freelance jobs, Sunny spent around seven years as a Software and Full Stack Developer for IT companies in Hong Kong, Singapore and Australia.<br/>After a successful career in E-Commerce area, Sunny helps different area of clients to develop products and services. Sunny enjoys trying new sports like Practical Shooting, and playing board games as well.<br/>Sunny's available for developing projects, as well as private consultation. My email is sunnyapp1001@gmail.com"
+	},
+	"elliot": {
+		"shortBio": "I talk with words, demo, and code....",
+		"photoUrl": "/images/people/elliot.jpg",
+		"name": "Elliot",
+		"companyLogo": "/images/logos/oursky.png",
+		"title": "Developer Evangelist",
+		"photo": "/images/people/elliot.jpg",
+		"order": 5,
+		"featured": true,
+		"company": "Oursky",
+		"companyLogoUrl": "/images/logos/oursky.png",
+		"socials": [
+			{
+				"name": "LinkedIn",
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/elliot-wong-78941411b/"
+			}
+		],
+		"country": "Hong Kong",
+		"bio": "Elliot connects with developers and promotes good practices inside and outside Oursky. His inspirations come from his constant involvement in development.<br/>Before joining Oursky, Elliot focused on developing reliable payment services for a Hong Kong leading multimedia company - HK01. He contributed to both frontend and backend to ensure payments were conducted in a highly secure, flawless manner. These payment services have been tested and widely adopted in various public events, including HKTDC Hong Kong Book Fair 2018. Prior to that, he was a frontend engineer at Harborx, a licensed mobile-based forex exchange brokerage, where he specialized in iOS and Android development to provide users a secure and seamless user experience."
 	}
 }
