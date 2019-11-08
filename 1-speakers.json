@@ -378,25 +378,25 @@
 		"bio": "Ivan So"
 	},
 	"harshdeep_vaghela": {
-		"shortBio": "Harshdeep Vaghela...",
-		"photoUrl": "/images/people/roy_ng.jpg",
-		"name": "Harshdeep Vaghela",
+		"shortBio": "Harsh is a project manager at KaiOS Technologies...",
+		"photoUrl": "/images/people/harsh.jpg",
+		"name": "Harsh",
 		"companyLogo": "/images/logos/kaios.png",
 		"title": "Project Manager",
-		"photo": "/images/people/roy_ng.jpg",
+		"photo": "/images/people/harsh.jpg",
 		"order": 2,
 		"featured": true,
-		"company": "KaiOS Technologies, Inc.",
+		"company": "KaiOS Technologies",
 		"companyLogoUrl": "/images/logos/kaios.png",
 		"socials": [
 			{
 				"name": "LinkedIn",
 				"icon": "linkedin",
-				"link": "https://hk.linkedin.com/in/ccc"
+				"link": "https://www.linkedin.com/in/harshdeep-vaghela/"
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Harshdeep Vaghela"
+		"bio": "Harsh is a project manager at KaiOS Technologies, the company behind a fast-growing, global ecosystem of affordable digital products and services. Key to these offerings Is KaiOS, the leading mobile operating system that empowers people around the world and helps close the digital divide.<br/>In this role, Harsh is responsible for growing the application ecosystem and bringing invaluable apps and services to KaiOS users.<br/>Harsh directly works with the app developers, both world’s leading and local content partners, to bring in an expanding library of essential apps with a broadening variety of utilities, which are carefully selected and customized for first-time internet users.<br/>As part of the monetization team, Harsh drives strategic partnerships with industry bodies as well as key and independent developers, to conceptualize and execute joint initiatives to bring more developers on board. He also provides developer-centric tools and resources to educate the developers on app development, user engagement, and monetization.<br/>With a dedication of reaching out directly to the wider developer communities, he initiated the first collaboration with programming schools and conducted workshops with the developer communities in Kenya and Ethiopia.<br/>Harsh is highly motivated and passionate about developing scalable products and deploying them globally.<br/>Before joining KaiOS, Harsh was a lead mobile app developer at Samsung Mobile.<br/>Harsh holds an MBA from the Hong Kong University of Science and Technology and is currently based in Hong Kong. He enjoys hiking and running and is training for his next Hong Kong Marathon in February 2020."
 	},
 	"orix_auyeung": {
 		"shortBio": "Hello there! I’m Orix, a full-time developer...",
@@ -475,13 +475,13 @@
 		"shortBio": "Sunny is a Freelance Developer and Technical Manager who helps international IT enterprise...",
 		"photoUrl": "/images/people/hiuyeung.png",
 		"name": "Sunny Tse",
-		"companyLogo": "/images/logos/google.svg",
+		"companyLogo": "/images/logos/manpower.png",
 		"title": "Technical Program Manager",
 		"photo": "/images/people/hiuyeung.png",
 		"order": 5,
 		"featured": true,
-		"company": "Google Hong Kong",
-		"companyLogoUrl": "/images/logos/google.svg",
+		"company": "Manpower",
+		"companyLogoUrl": "/images/logos/manpower.png",
 		"socials": [
 			{
 				"name": "LinkedIn",
@@ -490,6 +490,6 @@
 			}
 		],
 		"country": "Hong Kong",
-		"bio": "Sunny is a Freelance Developer and Technical Manager who helps international IT enterprise and local startups build an audience and develop quality products. Before starting the freelance jobs, Sunny spent around seven years as a Software and Full Stack Developer for IT companies in Hong Kong, Singapore and Australia. After a successful career in E-Commerce area, Sunny helps different area of clients to develop products and services. Sunny enjoys trying new sports like Practical Shooting, and playing board games as well. Sunny's available for developing projects, as well as private consultation. My email is sunnyapp1001@gmail.com"
+		"bio": "Sunny is a Freelance Developer and Technical Manager who helps international IT enterprise and local startups build an audience and develop quality products.<br/>Before starting the freelance jobs, Sunny spent around seven years as a Software and Full Stack Developer for IT companies in Hong Kong, Singapore and Australia.<br/>After a successful career in E-Commerce area, Sunny helps different area of clients to develop products and services. Sunny enjoys trying new sports like Practical Shooting, and playing board games as well.<br/>Sunny's available for developing projects, as well as private consultation. My email is sunnyapp1001@gmail.com"
 	}
 }
